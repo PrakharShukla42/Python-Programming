@@ -1,0 +1,6 @@
+tup=(50,60,70,80,90,100)
+print("First Element Of Tuple =",tup[0])
+print("Sixth Element Of Tuple =",tup[5])
+print("All Elements Of tuple",tup[:])
+print("Second To Five Elements Of List Are =",tup[1:5])
+print("Last To Last Three Elements =",tup[-4:-1])
